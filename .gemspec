@@ -1,7 +1,7 @@
 --- !ruby/object:Gem::Specification
 name: net-http-persistent
 version: !ruby/object:Gem::Version
-  version: 2.9.4
+  version: 2.9.5
 platform: ruby
 authors:
 - Eric Hodel
@@ -30,7 +30,7 @@ cert_chain:
   KDyY1VIazVgoC8XvR4h/95/iScPiuglzA+DBG1hip1xScAtw05BrXyUNrc9CEMYU
   wgF94UVoHRp6ywo8I7NP3HcwFQDFNEZPNGXsng==
   -----END CERTIFICATE-----
-date: 2014-02-10 00:00:00.000000000 Z
+date: 2016-06-16 00:00:00.000000000 Z
 dependencies:
 - !ruby/object:Gem::Dependency
   name: minitest
